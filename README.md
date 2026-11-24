@@ -1,3 +1,3 @@
 # Portifolio
-Portifolio falando um pouco sobre mim,
+Portifolio descrevendo um pouco sobre mim,
 minhas experiências profissionais, projetos desenvolvidos e habilidades.
